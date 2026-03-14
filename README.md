@@ -20,10 +20,6 @@ A Claude Code skill that enables Claude to generate production-grade UI followin
 ![AgentOS Coding Agent](assets/screenshots/demo-agent-os.png)
 *Claude-powered coding agent interface with file read/write tool traces — AgentOS style*
 
-### UX Monitor · 产品体验总览
-![UX Monitor Dashboard](assets/screenshots/demo-ux-monitor.png)
-*Web vitals monitoring dashboard with conversion funnel, error tracking, and geo distribution*
-
 ---
 
 ## What This Skill Does
