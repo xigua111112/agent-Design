@@ -8,10 +8,6 @@ A Claude Code skill that enables Claude to generate production-grade UI followin
 
 ## Demo
 
-### Agent Chat Interface · 数据分析助手
-![Agent Chat Interface](assets/screenshots/demo-chat-agent.png)
-*Multi-turn agent interface with tool call display, sidebar navigation, and token usage panel*
-
 ### Agent Studio Dashboard · 工作台总览
 ![Agent Studio Dashboard](assets/screenshots/demo-dashboard.png)
 *Full dashboard with stat cards, bar chart, run history table — Volcengine dark sidebar layout*
@@ -19,6 +15,10 @@ A Claude Code skill that enables Claude to generate production-grade UI followin
 ### AgentOS · Coding Agent
 ![AgentOS Coding Agent](assets/screenshots/demo-agent-os.png)
 *Claude-powered coding agent interface with file read/write tool traces — AgentOS style*
+
+### Agent Chat Interface · 数据分析助手
+![Agent Chat Interface](assets/screenshots/demo-chat-agent.png)
+*Multi-turn agent interface with tool call display, sidebar navigation, and token usage panel*
 
 ---
 
